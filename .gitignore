@@ -1,0 +1,6 @@
+node_modules/
+renders/
+review/
+frames*/
+index.html
+*.wav
