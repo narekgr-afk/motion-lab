@@ -1,0 +1,22 @@
+{
+ "name": "foto15",
+ "title": "Фото на документы за 15 минут",
+ "format": {
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "bpm": 120,
+  "duration": 15.0,
+  "frames": 360
+ },
+ "storyFormat": "morph chain (2 eras, 1 shape morph)",
+ "style": "riso",
+ "review": {
+  "safe": {
+   "top": 240,
+   "bottom": 420,
+   "right": 140
+  },
+  "refs": {}
+ }
+}
