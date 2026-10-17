@@ -1,0 +1,26 @@
+{
+ "name": "mirni-ui",
+ "title": "Мирный — интерфейс",
+ "format": {
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "bpm": 120,
+  "duration": 18.0,
+  "frames": 432
+ },
+ "storyFormat": "morph chain + real screens",
+ "style": "mirni",
+ "review": {
+  "safe": {
+   "top": 240,
+   "bottom": 420,
+   "right": 140
+  },
+  "refs": {}
+ },
+ "scenes": [
+  "src/helpers.js",
+  "src/scenes.js"
+ ]
+}
